@@ -26,7 +26,7 @@ I started by mixing two different templates, found a great photo on www.pexels.c
 
 ***What did I learn? How could this be improved?***
 
-This is just the beginning of my journey as a data journalist, and this project was an incredibly valuable learning experience. I didn’t face any major issues, but there were plenty of small, frustrating challenges—especially with styling and setting up a properly functioning GitHub repository.
+This is just the beginning of my journey as a data journalist, and this project was an incredibly valuable learning experience. I didn’t face any major issues, but there were plenty of small, frustrating challenges, especially with styling and setting up a properly functioning GitHub repository.
 
 With more time, I’d like to create more innovative charts and possibly include additional information about the manufacturers and costs of these roller coasters.
 
