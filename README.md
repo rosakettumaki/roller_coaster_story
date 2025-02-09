@@ -16,7 +16,9 @@ DataWrapper
 1. Getting the data
 The first step was finding the right data. It turned out that ChatGPT could easily convert screenshots from the Roller Coaster Database into CSV files, eliminating the need for scraping. Once I had the CSV files, I cleaned the data in Excel to fit my needs. With this kind of simple data, using Numbers was the most convenient approach.
 
-2. Visualizing the data
+The Roller coaster DataBase: https://rcdb.com/rhr.htm
+
+3. Visualizing the data
 I used Datawrapper to create the charts. I experimented with different approaches to buld the charts but ultimately decided that simplicity is best. I used classic bar charts for all three visualizations, giving the article a clean and consistent look.
 
 Here are the links for the charts:
