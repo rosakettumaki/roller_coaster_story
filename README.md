@@ -33,6 +33,7 @@ Speed: https://datawrapper.dwcdn.net/hka2l/6/
 I started by mixing two different templates, found a great photo on www.pexels.com, and finally embedded my Datawrapper charts into the page.
 
 Code in this GitHub repo: https://github.com/rosakettumaki/roller_coaster_story/blob/main/index.html
+
 Link to the page: https://rosakettumaki.github.io/roller_coaster_story/
 
 ***What did I learn? How could this be improved?***
