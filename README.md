@@ -1,4 +1,4 @@
-***ROLLER COASTER STORY***
+*** THE ROLLER COASTER STORY***
 
 ***Goal***
 
