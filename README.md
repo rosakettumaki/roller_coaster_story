@@ -22,7 +22,9 @@ I used Datawrapper to create the charts. I experimented with different approache
 Here are the links for the charts:
 
 Height: https://datawrapper.dwcdn.net/GVy0S/10/
+
 Lenght: https://datawrapper.dwcdn.net/hHof7/5/
+
 Speed: https://datawrapper.dwcdn.net/hka2l/6/
 
 3. Building the webpage
