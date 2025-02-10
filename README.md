@@ -8,9 +8,7 @@ This story was created as a coursework project at Columbia Journalism School, wi
 
 ***Tech stack used:***
 
-HTML / CSS
-Numbers 
-DataWrapper
+HTML / CSS / Numbers / DataWrapper
 
 ***Process summary***
 
