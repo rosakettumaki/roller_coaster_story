@@ -18,8 +18,9 @@ The first step was finding the right data. It turned out that ChatGPT could easi
 
 The Roller coaster DataBase: https://rcdb.com/rhr.htm
 
-3. Visualizing the data
-I used Datawrapper to create the charts. I experimented with different approaches to buld the charts but ultimately decided that simplicity is best. I used classic bar charts for all three visualizations, giving the article a clean and consistent look.
+2. Visualizing the data
+
+I used Datawrapper to create the charts. I experimented with different approaches to build the charts but in the end I decided that simplicity is best. Used classic bar charts for all three visualizations, giving the article a clean and consistent look.
 
 Here are the links for the charts:
 
@@ -30,6 +31,7 @@ Lenght: https://datawrapper.dwcdn.net/hHof7/5/
 Speed: https://datawrapper.dwcdn.net/hka2l/6/
 
 3. Building the webpage
+   
 I started by mixing two different templates, found a great photo on www.pexels.com, and finally embedded my Datawrapper charts into the page.
 
 Code in this GitHub repo: https://github.com/rosakettumaki/roller_coaster_story/blob/main/index.html
