@@ -14,7 +14,7 @@ HTML / CSS / Numbers / DataWrapper
 
 1. Getting the data
 
-I found the database from source links from the roller coaster Wikipedia page. It turned out that ChatGPT could easily convert screenshots from the Roller Coaster Database into CSV files, eliminating the need for scraping. Once I had the CSV files, I cleaned the data in Numbers to fit my needs. With this kind of simple data, using Numbers was the most convenient approach.
+I found the database from source links of the roller coaster Wikipedia page. It turned out that ChatGPT could easily convert screenshots from the Roller Coaster Database into CSV files, eliminating the need for scraping. Once I had the CSV files, I cleaned the data in Numbers to fit my needs. With this kind of simple data, using Numbers was the most convenient approach.
 
 The Roller coaster DataBase: https://rcdb.com/rhr.htm
 
