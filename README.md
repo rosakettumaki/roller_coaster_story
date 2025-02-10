@@ -7,6 +7,7 @@ Build an article about the new roller coaster that is set to surpass all others 
 This story was created as a coursework project at Columbia Journalism School, with a primary focus on the workflow—how to develop a data-driven idea, find and clean the data, visualize it, and build a webpage within a limited timeframe. Since this process was new to me, I chose a topic with straightforward data that still holds journalistic significance. I wanted to ensure I had enough time for each step, as managing a data-driven workflow that is a bit differend from a traditional text-only story.
 
 ***Tech stack used:***
+
 HTML / CSS
 Numbers 
 DataWrapper
@@ -14,7 +15,7 @@ DataWrapper
 ***Process summary***
 
 1. Getting the data
-The first step was finding the right data. It turned out that ChatGPT could easily convert screenshots from the Roller Coaster Database into CSV files, eliminating the need for scraping. Once I had the CSV files, I cleaned the data in Excel to fit my needs. With this kind of simple data, using Numbers was the most convenient approach.
+The first step was finding the right data. It turned out that ChatGPT could easily convert screenshots from the Roller Coaster Database into CSV files, eliminating the need for scraping. Once I had the CSV files, I cleaned the data in Numbers to fit my needs. With this kind of simple data, using Numbers was the most convenient approach.
 
 The Roller coaster DataBase: https://rcdb.com/rhr.htm
 
